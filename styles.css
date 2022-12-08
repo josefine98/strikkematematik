@@ -1,0 +1,25 @@
+nav {
+    background-color: blue;
+}
+
+img {
+    width: 100px; 
+}
+
+body {
+    margin-bottom: 50px; 
+}
+
+.btn, .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white; 
+    background-color: rgb(205, 94, 94);
+    border: none;
+}
+
+.nav-link {
+    color: rgb(205, 94, 94);
+}
+
+.container {
+    width: 60vw; 
+}
